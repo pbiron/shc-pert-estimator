@@ -66,7 +66,7 @@ For the math geeks out there, PERT is a special case of [Three-point estimation]
 * init commit
 
 ## Got Ideas?
-Please let me know by creating a new [issue](issues/new) and describe your idea.  Pull Requests are welcome!
+Please let me know by creating a new [issue](https://github.com/pbiron/shc-pert-estimator/issues) and describe your idea.  Pull Requests are welcome!
 
 ## Other Notes
 
