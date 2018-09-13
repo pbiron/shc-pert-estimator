@@ -1,0 +1,8 @@
+node_modules/
+vendor/
+assets/css/**/*.min.css
+assets/css/**/*-rtl.css
+assets/js/**/*.min.js
+.sass-cache/
+*.*.zip
+*.*~

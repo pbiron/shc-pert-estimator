@@ -1,0 +1,39 @@
+#shc-pert-estimator .fields {
+	display: flex;
+	flex-direction: column;
+}
+
+#shc-pert-estimator fieldset {
+    border: 1px solid #eee;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+#shc-pert-estimator legend {
+	font-weight: bold;
+}
+
+#shc-pert-estimator label {
+	display: flex;
+	margin: auto;
+}
+
+#shc-pert-estimator .label {
+	flex-grow: 1;
+	margin: auto;
+	text-align: right
+}
+
+#shc-pert-estimator .label::after {
+	content: ':';
+}
+
+#shc-pert-estimator label input {
+	margin-left: 2em;
+	text-align: right;
+}
+
+#shc-pert-estimator #calculate {
+	text-align: right;
+	align-self: flex-end;
+}
