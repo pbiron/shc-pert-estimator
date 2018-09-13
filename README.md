@@ -20,7 +20,7 @@ use that to install (and update) this plugin.
 
 ## Screenshots
 
-![The Dashboard widget in action](assets/images/screenhot-1.png?raw=true "The Dashboard widget")
+![The Dashboard widget in action](assets/images/screenshot-1.png?raw=true "The Dashboard widget in action")
 
 ## Frequently Asked Questions
 
