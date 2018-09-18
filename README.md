@@ -49,6 +49,10 @@ For the math geeks out there, PERT is a special case of [Three-point estimation]
 
 ## Changelog
 
+### 0.9.1
+
+* added "What you get paid" field to "Totals" section
+
 ### 0.9.0
 
 * First version released on github

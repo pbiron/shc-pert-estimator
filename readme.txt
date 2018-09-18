@@ -5,7 +5,7 @@ Tags: admin, dashboard widget
 Requires at least: 4.0
 Requires PHP: 5.2
 Tested up to: 4.9.8
-Stable tag: 0.9.0
+Stable tag: 0.9.1
 License: GPLv2 or later
 License URL: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z6D97FA595WSU
@@ -53,6 +53,10 @@ This _weighted average_ helps account for the uncertainty in each of the origina
 For the math geeks out there, PERT is a special case of [Three-point estimation](https://en.wikipedia.org/wiki/Three-point_estimation) that uses the [PERT distribution](https://en.wikipedia.org/wiki/PERT_distribution).
 
 == Changelog ==
+
+= 0.9.1 =
+
+* added "What you get paid" field to "Totals" section
 
 = 0.9.0 =
 

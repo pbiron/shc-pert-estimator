@@ -3,7 +3,7 @@
 /*
  * Plugin Name: PERT Estimator Dashboard Widget
  * Description: Dashboard widget for PERT estimation
- * Version: 0.9.0
+ * Version: 0.9.1
  * Author: Paul V. Biron/Sparrow Hawk Computing
  * Author URI: https://sparrowhawkcomputing.com
  * Plugin URI: https:/github/pbiron/shc-pert-estimator
@@ -33,7 +33,7 @@ class SHC_Pert_Estimator_Plugin {
 	 *
 	 * @var string
 	 */
-	const VERSION = '0.9.0';
+	const VERSION = '0.9.1';
 
 	/**
 	 * Get our instance.
