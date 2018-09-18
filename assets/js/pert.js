@@ -37,11 +37,13 @@
 		// use those values to calculate the estimate
 		var estimate_hours = ( optimistic + 4 * likely + pessimistic ) / 6,
 			estimate = estimate_hours * hourly_rate,
-			estimate_with_fees = estimate / (1 - ( contractor_fee / 100 ) );
+			estimate_with_fees = estimate / (1 - ( contractor_fee / 100 ) ),
+			your_pay = estimate_hours * hourly_rate;
 
 		// update the estimate with the calculated values
 		$( '#estimate_hours' ).val( round( estimate_hours, 0.5 ) );
 		$( '#estimate' ).val( Math.round( estimate_with_fees * 100 / 100 ) );
+		$( '#your_pay' ).val( your_pay );
 
 		// save the hourly_rate and contractor_fee as user meta for next time
 		$.post( ajaxurl,

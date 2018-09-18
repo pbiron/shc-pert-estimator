@@ -115,3 +115,7 @@ msgstr ""
 #: plugin.php:187 plugin.php:227
 msgid "Totals"
 msgstr ""
+
+#: plugin.php:241
+msgid "What you get paid"
+msgstr ""

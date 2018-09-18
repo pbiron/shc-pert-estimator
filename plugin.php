@@ -237,6 +237,10 @@ class SHC_Pert_Estimator_Plugin {
 				<span class='label'><?php _e( 'Estimate for client (including fees)', 'shc-pert-estimator' ) ?></span>
 				<input id='estimate' type='text' readonly='readonly'/>
 			</label>
+			<label>
+				<span class='label'><?php _e( 'What you get paid', 'shc-pert-estimator' ) ?></span>
+				<input id='your_pay' type='text' readonly='readonly'/>
+			</label>
 		</fieldset>
 
 		<input id='calculate' type='submit' class='button button-primary button-large' value='<?php _e( 'Calculate', 'shc-pert-estimator' ) ?>' />
