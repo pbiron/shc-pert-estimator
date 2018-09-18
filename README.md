@@ -18,6 +18,11 @@ Installation of this plugin works like any other plugin out there:
 Alternatively, if you have the [Guthub Updater Plugin](https://github.com/afragen/github-updater) you can
 use that to install (and update) this plugin.
 
+If you install/update from GitHub Updater (or by locally cloning this repository), you will need to run the following commands:
+
+    npm install
+    grunt build 
+
 ## Screenshots
 
 ![The Dashboard widget in action](assets/images/screenhot-1.png?raw=true "The Dashboard widget")
