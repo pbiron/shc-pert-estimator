@@ -25,7 +25,7 @@ If you install/update from GitHub Updater (or by locally cloning this repository
 
 ## Screenshots
 
-![The Dashboard widget in action](assets/images/screenhot-1.png?raw=true "The Dashboard widget")
+![The Dashboard widget in action](assets/images/screenshot-1.png?raw=true "The Dashboard widget in action")
 
 ## Frequently Asked Questions
 
@@ -75,7 +75,7 @@ For the math geeks out there, PERT is a special case of [Three-point estimation]
 * init commit
 
 ## Got Ideas?
-Please let me know by creating a new [issue](issues/new) and describe your idea.  Pull Requests are welcome!
+Please let me know by creating a new [issue](https://github.com/pbiron/shc-pert-estimator/issues) and describe your idea.  Pull Requests are welcome!
 
 ## Other Notes
 
